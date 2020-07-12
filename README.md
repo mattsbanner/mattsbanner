@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi I'm Matt 👋 a Web Developer based in Essex. Building with HTML, CSS, PHP, Laravel, Craft CMS, Sass, Twig, Docker, Vue.js, MySQL, & Git. Maintaining and hosting at AWS.
+
+Currently working on the backend for Enovate, a web design and development agency in Chelmsford, Essex.
 
 <!--
 **mattsbanner/mattsbanner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
